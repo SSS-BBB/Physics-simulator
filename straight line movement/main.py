@@ -41,11 +41,11 @@ def not_exit(events):
 def show_graph(t, graph_info: graph_info):
     # decoration
     plt.xlabel("time")
-    plt.ylabel("postion")
+    plt.ylabel("velocity")
 
     # graph
-    plt.plot(t, graph_info.pos_x, label="pos_x")
-    plt.plot(t, graph_info.pos_y, label="pos_y")
+    plt.plot(t, graph_info.vel_x, label="vel_x")
+    plt.plot(t, graph_info.vel_y, label="vel_y")
 
     # show
     plt.legend()
