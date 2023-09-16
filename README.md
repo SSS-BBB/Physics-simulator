@@ -10,3 +10,7 @@ This is a velocity graph as you can see acceleration make the velocity larger in
 ![alt text](https://github.com/SSS-BBB/Physics-simulator/blob/main/straight%20line%20movement/graph/position%20with%20acceleration.png)
 
 However the position is not linear that is because the longer it takes the faster it gets, basically you can move faster as the time goes by. That is why the position is curve but not linear.
+
+# A person who writes this code
+Suphawit Buaphan
+(นายศุภวิชญ์ บัวพันธ์)
